@@ -143,8 +143,8 @@ Open the local URL shown in the terminal to use the application.
 ## Screenshots
 
 * Home screen
-![Home](test/Screenshots/Home.png)
-![Home-2](test/Screenshots/Home-Search.png)
+![Home](Screenshots/Home.png)
+![Home-2](Screenshots/Home-Search.png)
 
 
 * Recommendation results page
