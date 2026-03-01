@@ -145,9 +145,10 @@ Open the local URL shown in the terminal to use the application.
 * Home screen
 ![Home](Screenshots/Home.png)
 ![Home-2](Screenshots/Home-Search.png)
+* Recommendation results page
 ![Recommendation](Screenshots/Recommendation.png)
 
-* Recommendation results page
+
 
 ---
 
